@@ -1,4 +1,4 @@
-# ElGamal_Encryption
+# Manuel_ElGamal_Encryption
 ElGamal Key Generation, Encryption, Decryption
 
 ElGamal Signature, Encryption, Decryption
